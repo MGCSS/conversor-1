@@ -17,10 +17,10 @@ public class longitud {
             // TODO código del conversor
            return (milla*1.61);
     }
-    // TODO resto de métodos
-    
-    public void test()
+  
+    public static double estadio(double estadio)
     {
-        System.out.println("jeje hola darrio");
+        return (estadio*0.2);
     }
+    
 }
