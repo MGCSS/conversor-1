@@ -37,4 +37,9 @@ public class longitud {
     {
        return (yardas * (9.14 * Math.pow(10,-4)));
     }
+    
+    public static double mano(double mano){
+        
+        return (mano*(1.02*Math.pow(10, -4)));
+    }
 }
