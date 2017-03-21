@@ -23,4 +23,9 @@ public class longitud {
     {
         System.out.println("jeje hola darrio");
     }
+    
+    public static double cadenas(double cadenas){
+        
+        return (cadenas*0.02);
+    }
 }
