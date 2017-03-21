@@ -27,4 +27,9 @@ public class longitud {
         
         return (cadenas*0.02);
     }
+    
+    public static double barras(double barras)
+    {
+        return (barras*0.01);
+    }
 }
