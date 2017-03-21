@@ -21,6 +21,6 @@ public class longitud {
     
     public void test()
     {
-        System.out.println("jeje");
+        System.out.println("jeje hola darrio");
     }
 }
