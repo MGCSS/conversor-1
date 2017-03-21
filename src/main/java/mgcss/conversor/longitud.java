@@ -18,4 +18,9 @@ public class longitud {
            return (milla*1.61);
     }
     // TODO resto de métodos
+    
+    public void test()
+    {
+        System.out.println("jeje");
+    }
 }
