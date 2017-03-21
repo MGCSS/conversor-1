@@ -42,4 +42,9 @@ public class longitud {
         
         return (mano*(1.02*Math.pow(10, -4)));
     }
+    
+        public static double pies(double pies)
+    {
+        return (pies*(3.05*Math.pow(10,-4)));
+    }
 }
